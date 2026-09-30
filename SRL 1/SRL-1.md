@@ -1,4 +1,4 @@
-# SRL 1 — Problem Validation (Validasi Masalah)
+# SRL 1 — Problem Validation (Validasi Masalah)ascaasdadadsa
 
 `Fokus utama: pahami customer dan masalahnya **sebelum menjual atau membangun solusi.`
 
